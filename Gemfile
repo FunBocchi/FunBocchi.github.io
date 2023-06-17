@@ -31,3 +31,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+# 这部分的功能是添加一个能够自动生成一个空白博客文件的功能，使其能够自动规范化
+gem 'jekyll-compose', group: [:jekyll_plugins]
