@@ -1,2 +1,2 @@
-# FunBocchi.github.io
-A simple personal blog page. 
+# Hugo_Create
+For Hugo initial
