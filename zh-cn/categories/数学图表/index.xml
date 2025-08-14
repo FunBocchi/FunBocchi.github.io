@@ -1,19 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>数学图表 on 波奇的小窝</title>
-    <link>http://localhost:1313/zh-cn/categories/%E6%95%B0%E5%AD%A6%E5%9B%BE%E8%A1%A8/</link>
-    <description>Recent content in 数学图表 on 波奇的小窝</description>
-    <generator>Hugo</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/categories/%E6%95%B0%E5%AD%A6%E5%9B%BE%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>KaTeX 和 Mermaid 测试</title>
-      <link>http://localhost:1313/zh-cn/posts/katex-mermaid-test/</link>
-      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/katex-mermaid-test/</guid>
-      <description>&lt;h1 id=&#34;katex-和-mermaid-测试&#34;&gt;KaTeX 和 Mermaid 测试&lt;/h1&gt;&#xA;&lt;p&gt;本文用于测试 KaTeX 数学公式渲染和 Mermaid 图表功能。&lt;/p&gt;&#xA;&lt;h2 id=&#34;mermaid-图表测试&#34;&gt;Mermaid 图表测试&lt;/h2&gt;&#xA;&lt;h3 id=&#34;流程图&#34;&gt;流程图&lt;/h3&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xD;&#xA;  graph TD&#xD;&#xA;    A[开始] --&amp;gt; B{是否为用户？}&#xD;&#xA;    B --&amp;gt;|是| C[显示用户界面]&#xD;&#xA;    B --&amp;gt;|否| D[显示登录页面]&#xD;&#xA;    C --&amp;gt; E[用户操作]&#xD;&#xA;    D --&amp;gt; F[用户登录]&#xD;&#xA;    F --&amp;gt; G{登录成功？}&#xD;&#xA;    G --&amp;gt;|是| C&#xD;&#xA;    G --&amp;gt;|否| H[显示错误信息]&#xD;&#xA;    H --&amp;gt; D&#xD;&#xA;    E --&amp;gt; I[结束]&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3 id=&#34;序列图&#34;&gt;序列图&lt;/h3&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xD;&#xA;  sequenceDiagram&#xD;&#xA;    participant 用户&#xD;&#xA;    participant 浏览器&#xD;&#xA;    participant 服务器&#xD;&#xA;    participant 数据库&#xD;&#xA;&#xD;&#xA;    用户-&amp;gt;&amp;gt;浏览器: 输入网址&#xD;&#xA;    浏览器-&amp;gt;&amp;gt;服务器: 发送HTTP请求&#xD;&#xA;    服务器-&amp;gt;&amp;gt;数据库: 查询数据&#xD;&#xA;    数据库--&amp;gt;&amp;gt;服务器: 返回数据&#xD;&#xA;    服务器--&amp;gt;&amp;gt;浏览器: 返回HTML&#xD;&#xA;    浏览器--&amp;gt;&amp;gt;用户: 显示页面&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3 id=&#34;甘特图&#34;&gt;甘特图&lt;/h3&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xD;&#xA;  gantt&#xD;&#xA;    title 项目开发时间线&#xD;&#xA;    dateFormat  YYYY-MM-DD&#xD;&#xA;    section 设计阶段&#xD;&#xA;    需求分析           :done,    des1, 2024-01-01,2024-01-05&#xD;&#xA;    UI设计            :done,    des2, 2024-01-06, 2024-01-12&#xD;&#xA;    原型制作           :active,  des3, 2024-01-13, 2024-01-18&#xD;&#xA;    section 开发阶段&#xD;&#xA;    前端开发           :         dev1, 2024-01-19, 2024-02-15&#xD;&#xA;    后端开发           :         dev2, 2024-01-19, 2024-02-20&#xD;&#xA;    数据库设计         :         dev3, 2024-01-19, 2024-01-25&#xD;&#xA;    section 测试阶段&#xD;&#xA;    单元测试           :         test1, 2024-02-16, 2024-02-25&#xD;&#xA;    集成测试           :         test2, 2024-02-21, 2024-03-01&#xD;&#xA;    用户测试           :         test3, 2024-02-26, 2024-03-05&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&#xD;&#xA;&lt;h2 id=&#34;katex-测试&#34;&gt;KaTeX 测试&lt;/h2&gt;&#xA;&lt;h3 id=&#34;行内公式&#34;&gt;行内公式&lt;/h3&gt;&#xA;&lt;p&gt;这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数学图表 on 波奇的小窝</title><link>https://www.funbocchi.top/zh-cn/categories/%E6%95%B0%E5%AD%A6%E5%9B%BE%E8%A1%A8/</link><description>Recent content in 数学图表 on 波奇的小窝</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/zh-cn/categories/%E6%95%B0%E5%AD%A6%E5%9B%BE%E8%A1%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeX 和 Mermaid 测试</title><link>https://www.funbocchi.top/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试">KaTeX 和 Mermaid 测试&lt;/h1>
+&lt;p>本文用于测试 KaTeX 数学公式渲染和 Mermaid 图表功能。&lt;/p>
+&lt;h2 id="mermaid-图表测试">Mermaid 图表测试&lt;/h2>
+&lt;h3 id="流程图">流程图&lt;/h3>
+
+
+
+&lt;pre class="mermaid">
+ graph TD
+ A[开始] --&amp;gt; B{是否为用户？}
+ B --&amp;gt;|是| C[显示用户界面]
+ B --&amp;gt;|否| D[显示登录页面]
+ C --&amp;gt; E[用户操作]
+ D --&amp;gt; F[用户登录]
+ F --&amp;gt; G{登录成功？}
+ G --&amp;gt;|是| C
+ G --&amp;gt;|否| H[显示错误信息]
+ H --&amp;gt; D
+ E --&amp;gt; I[结束]
+&lt;/pre>
+
+&lt;h3 id="序列图">序列图&lt;/h3>
+
+
+
+&lt;pre class="mermaid">
+ sequenceDiagram
+ participant 用户
+ participant 浏览器
+ participant 服务器
+ participant 数据库
+
+ 用户-&amp;gt;&amp;gt;浏览器: 输入网址
+ 浏览器-&amp;gt;&amp;gt;服务器: 发送HTTP请求
+ 服务器-&amp;gt;&amp;gt;数据库: 查询数据
+ 数据库--&amp;gt;&amp;gt;服务器: 返回数据
+ 服务器--&amp;gt;&amp;gt;浏览器: 返回HTML
+ 浏览器--&amp;gt;&amp;gt;用户: 显示页面
+&lt;/pre>
+
+&lt;h3 id="甘特图">甘特图&lt;/h3>
+
+
+
+&lt;pre class="mermaid">
+ gantt
+ title 项目开发时间线
+ dateFormat YYYY-MM-DD
+ section 设计阶段
+ 需求分析 :done, des1, 2024-01-01,2024-01-05
+ UI设计 :done, des2, 2024-01-06, 2024-01-12
+ 原型制作 :active, des3, 2024-01-13, 2024-01-18
+ section 开发阶段
+ 前端开发 : dev1, 2024-01-19, 2024-02-15
+ 后端开发 : dev2, 2024-01-19, 2024-02-20
+ 数据库设计 : dev3, 2024-01-19, 2024-01-25
+ section 测试阶段
+ 单元测试 : test1, 2024-02-16, 2024-02-25
+ 集成测试 : test2, 2024-02-21, 2024-03-01
+ 用户测试 : test3, 2024-02-26, 2024-03-05
+&lt;/pre>
+
+&lt;h2 id="katex-测试">KaTeX 测试&lt;/h2>
+&lt;h3 id="行内公式">行内公式&lt;/h3>
+&lt;p>这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p></description></item></channel></rss>

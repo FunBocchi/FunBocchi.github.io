@@ -107,7 +107,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  data-gallery-type="auto">
  &lt;div class="image-container">
  &lt;img
- src="https://www.funbocchi.top/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone"
  title="Photo par - Daniel Leone"
  
@@ -116,7 +116,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  
  loading="lazy"
  decoding="async"
- data-gallery-src="https://www.funbocchi.top/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ data-gallery-src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone"
  data-gallery-title="Photo par - Daniel Leone" />&lt;/div>
 
@@ -348,8 +348,8 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-0"
- title="复制"
- aria-label="复制">
+ title="Copy"
+ aria-label="Copy">
  &lt;span class="copy-icon">
  
  &lt;svg class="h-3 w-3"
@@ -359,7 +359,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 &lt;/svg>
  &lt;/span>
  &lt;span class="copy-text hidden sm:inline"
- >复制&lt;/span
+ >Copy&lt;/span
  >
  &lt;/button>
  &lt;/div>
@@ -472,7 +472,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  setTimeout(() => {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  copyBtn.classList.remove('text-green-600');
  }, 2000);
@@ -495,7 +495,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 
  setTimeout(() => {
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  selection.removeAllRanges();
  }, 2000);
@@ -666,8 +666,8 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-1"
- title="复制"
- aria-label="复制">
+ title="Copy"
+ aria-label="Copy">
  &lt;span class="copy-icon">
  
  &lt;svg class="h-3 w-3"
@@ -677,7 +677,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 &lt;/svg>
  &lt;/span>
  &lt;span class="copy-text hidden sm:inline"
- >复制&lt;/span
+ >Copy&lt;/span
  >
  &lt;/button>
  &lt;/div>
@@ -793,7 +793,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  setTimeout(() => {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  copyBtn.classList.remove('text-green-600');
  }, 2000);
@@ -816,7 +816,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 
  setTimeout(() => {
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  selection.removeAllRanges();
  }, 2000);
@@ -987,8 +987,8 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-2"
- title="复制"
- aria-label="复制">
+ title="Copy"
+ aria-label="Copy">
  &lt;span class="copy-icon">
  
  &lt;svg class="h-3 w-3"
@@ -998,7 +998,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 &lt;/svg>
  &lt;/span>
  &lt;span class="copy-text hidden sm:inline"
- >复制&lt;/span
+ >Copy&lt;/span
  >
  &lt;/button>
  &lt;/div>
@@ -1104,7 +1104,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  setTimeout(() => {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  copyBtn.classList.remove('text-green-600');
  }, 2000);
@@ -1127,7 +1127,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 
  setTimeout(() => {
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  selection.removeAllRanges();
  }, 2000);
@@ -1298,8 +1298,8 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-3"
- title="复制"
- aria-label="复制">
+ title="Copy"
+ aria-label="Copy">
  &lt;span class="copy-icon">
  
  &lt;svg class="h-3 w-3"
@@ -1309,7 +1309,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 &lt;/svg>
  &lt;/span>
  &lt;span class="copy-text hidden sm:inline"
- >复制&lt;/span
+ >Copy&lt;/span
  >
  &lt;/button>
  &lt;/div>
@@ -1463,7 +1463,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  setTimeout(() => {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  copyBtn.classList.remove('text-green-600');
  }, 2000);
@@ -1486,7 +1486,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 
  setTimeout(() => {
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  selection.removeAllRanges();
  }, 2000);
@@ -1657,8 +1657,8 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-4"
- title="复制"
- aria-label="复制">
+ title="Copy"
+ aria-label="Copy">
  &lt;span class="copy-icon">
  
  &lt;svg class="h-3 w-3"
@@ -1668,7 +1668,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
 &lt;/svg>
  &lt;/span>
  &lt;span class="copy-text hidden sm:inline"
- >复制&lt;/span
+ >Copy&lt;/span
  >
  &lt;/button>
  &lt;/div>
@@ -1768,7 +1768,7 @@ function test() {
  setTimeout(() => {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  copyBtn.classList.remove('text-green-600');
  }, 2000);
@@ -1791,7 +1791,7 @@ function test() {
 
  setTimeout(() => {
  if (copyText) {
- copyText.textContent = '复制';
+ copyText.textContent = 'Copy';
  }
  selection.removeAllRanges();
  }, 2000);
