@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>チャート on 波奇的小窝</title><link>https://www.funbocchi.top/ja/tags/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/</link><description>Recent content in チャート on 波奇的小窝</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/ja/tags/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeXとMermaidテスト</title><link>https://www.funbocchi.top/ja/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/ja/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katexとmermaidテスト">KaTeXとMermaidテスト&lt;/h1>
+&lt;p>この記事はKaTeX数式レンダリングとMermaidチャート機能をテストするために使用されます。&lt;/p>
+&lt;h2 id="mermaidチャートテスト">Mermaidチャートテスト&lt;/h2>
+&lt;h3 id="フローチャート">フローチャート&lt;/h3>
+
+
+
+&lt;pre class="mermaid">
+ graph TD
+ A[開始] --&amp;gt; B{ユーザーですか？}
+ B --&amp;gt;|はい| C[ユーザーインターフェースを表示]
+ B --&amp;gt;|いいえ| D[ログインページを表示]
+ C --&amp;gt; E[ユーザー操作]
+ D --&amp;gt; F[ユーザーログイン]
+ F --&amp;gt; G{ログイン成功？}
+ G --&amp;gt;|はい| C
+ G --&amp;gt;|いいえ| H[エラーメッセージを表示]
+ H --&amp;gt; D
+ E --&amp;gt; I[終了]
+&lt;/pre>
+
+&lt;h3 id="シーケンス図">シーケンス図&lt;/h3>
+
+
+
+&lt;pre class="mermaid">
+ sequenceDiagram
+ participant ユーザー
+ participant ブラウザ
+ participant サーバー
+ participant データベース
+
+ ユーザー-&amp;gt;&amp;gt;ブラウザ: URLを入力
+ ブラウザ-&amp;gt;&amp;gt;サーバー: HTTPリクエストを送信
+ サーバー-&amp;gt;&amp;gt;データベース: データを照会
+ データベース--&amp;gt;&amp;gt;サーバー: データを返す
+ サーバー--&amp;gt;&amp;gt;ブラウザ: HTMLを返す
+ ブラウザ--&amp;gt;&amp;gt;ユーザー: ページを表示
+&lt;/pre>
+
+&lt;h3 id="ガントチャート">ガントチャート&lt;/h3>
+
+
+
+&lt;pre class="mermaid">
+ gantt
+ title プロジェクト開発タイムライン
+ dateFormat YYYY-MM-DD
+ section 設計段階
+ 要件分析 :done, des1, 2024-01-01,2024-01-05
+ UI設計 :done, des2, 2024-01-06, 2024-01-12
+ プロトタイプ作成 :active, des3, 2024-01-13, 2024-01-18
+ section 開発段階
+ フロントエンド開発 : dev1, 2024-01-19, 2024-02-15
+ バックエンド開発 : dev2, 2024-01-19, 2024-02-20
+ データベース設計 : dev3, 2024-01-19, 2024-01-25
+ section テスト段階
+ 単体テスト : test1, 2024-02-16, 2024-02-25
+ 統合テスト : test2, 2024-02-21, 2024-03-01
+ ユーザーテスト : test3, 2024-02-26, 2024-03-05
+&lt;/pre>
+
+&lt;h2 id="katexテスト">KaTeXテスト&lt;/h2>
+&lt;h3 id="インライン数式">インライン数式&lt;/h3>
+&lt;p>これはインライン数式です：$E = mc^2$、アインシュタインの質量エネルギー等価式。&lt;/p></description></item></channel></rss>

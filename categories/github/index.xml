@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on 波奇的小窝</title><link>https://www.funbocchi.top/categories/github/</link><description>Recent content in Github on 波奇的小窝</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/categories/github/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub 风格提示框测试</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试">GitHub 风格提示框测试&lt;/h1>
+&lt;p>本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p>
+&lt;h2 id="提示框语法">提示框语法&lt;/h2>
+&lt;h3 id="注意提示框">注意提示框&lt;/h3>
+&lt;div
+ class="alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
+ style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
+ border-left-color: var(--color-note);
+ --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);"
+ onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
+ onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
+ role="alert"
+ aria-labelledby="alert-0-title">
+ 
+ &lt;div
+ class=" flex items-center justify-between px-6 pt-6 pb-3"
+ >
+ &lt;div class="flex items-center gap-3">
+ 
+ &lt;h4
+ id="alert-0-title"
+ class="m-0 font-semibold text-foreground/90">
+ 注意
+ &lt;/h4>
+ &lt;/div>
+
+ 
+ 
+ &lt;/div>
+
+ 
+ &lt;div
+ id="alert-0-content"
+ class="alert-content px-6 pb-6">
+ &lt;div class="prose prose-sm text-foreground/90 max-w-none">
+ &lt;p>这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p></description></item></channel></rss>
