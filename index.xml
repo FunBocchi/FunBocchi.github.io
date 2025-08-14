@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on 波奇的小窝</title><link>https://www.funbocchi.top/</link><description>Recent content in Home on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 14 Aug 2025 18:20:39 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/index.xml" rel="self" type="application/rss+xml"/><item><title>配置Hugo</title><link>https://www.funbocchi.top/posts/%E9%85%8D%E7%BD%AEhugo/</link><pubDate>Thu, 14 Aug 2025 18:20:39 +0800</pubDate><guid>https://www.funbocchi.top/posts/%E9%85%8D%E7%BD%AEhugo/</guid><description>&lt;h3 id="配置hugo">配置Hugo&lt;/h3>
 &lt;hr>
-&lt;p>如何配置您的Hugo站点&lt;/p></description></item><item><title>GitHub Style Alert Test</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing">GitHub Style Alert Testing&lt;/h1>
+&lt;p>如何配置您的Hugo站点&lt;/p>
+&lt;h4 id="配置文件">配置文件&lt;/h4>
+&lt;p>Hugo使用 &lt;code>hugo.toml&lt;/code>、&lt;code>hugo.yaml&lt;/code>或者&lt;code>hugo.json&lt;/code>（如果位于站点根目录中找到）作为默认的站点配置文件。&lt;/p></description></item><item><title>GitHub Style Alert Test</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing">GitHub Style Alert Testing&lt;/h1>
 &lt;p>This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p>
 &lt;h2 id="alert-syntax">Alert Syntax&lt;/h2>
 &lt;h3 id="note-alert">Note Alert&lt;/h3>
