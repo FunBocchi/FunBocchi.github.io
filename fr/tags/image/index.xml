@@ -8,7 +8,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  data-gallery-type="auto">
  &lt;div class="image-container">
  &lt;img
- src="https://www.funbocchi.top/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone"
  title="Photo par - Daniel Leone"
  
@@ -17,7 +17,7 @@ Toutes les images proviennent de &lt;a href="https://unsplash.com/">Unsplash&lt;
  
  loading="lazy"
  decoding="async"
- data-gallery-src="https://www.funbocchi.top/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ data-gallery-src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone"
  data-gallery-title="Photo par - Daniel Leone" />&lt;/div>
 
