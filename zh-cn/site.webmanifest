@@ -1,1 +1,25 @@
-{"background_color":"#ffffff","categories":["blog","technology","education"],"description":"A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design.","dir":"ltr","display":"standalone","icons":[{"sizes":"any","src":"/favicon.svg","type":"image/svg+xml"}],"lang":"en-US","name":"波奇的小窝","orientation":"portrait-primary","scope":"/","short_name":"Bocchi","start_url":"/","theme_color":"#09090b"}
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design.",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en-US",
+  "name": "波奇的小窝",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Bocchi",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}
