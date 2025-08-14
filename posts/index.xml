@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 波奇的小窝</title><link>https://www.funbocchi.top/posts/</link><description>Recent content in Posts on 波奇的小窝</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub 风格提示框测试</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试">GitHub 风格提示框测试&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 波奇的小窝</title><link>https://www.funbocchi.top/posts/</link><description>Recent content in Posts on 波奇的小窝</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 13 Aug 2025 22:27:42 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>CMakeLists文件编写指南</title><link>https://www.funbocchi.top/posts/cmakelists%E6%96%87%E4%BB%B6%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97/</link><pubDate>Wed, 13 Aug 2025 22:27:42 +0800</pubDate><guid>https://www.funbocchi.top/posts/cmakelists%E6%96%87%E4%BB%B6%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97/</guid><description>&lt;h3 id="怎么写自己的cmakeliststxt">怎么写自己的CMakeLists.txt&lt;/h3>
+&lt;h4 id="一为什么要使用cmake">一、为什么要使用cmake&lt;/h4>
+&lt;p>理论上说，任何一个C++程序都可以用G++来编译。
+但当程序规模越来越大时，一个工程可能有许多个文件夹和源文件，这时输入的编译命令越来越长。
+通常一个小型C++项目可能含有十几个类，各个类之间还存在着复杂的依赖关系。
+其中一部分要编译成可执行文件，另一部分要编译成库文件。
+如果仅靠G++命令，我们需要输入大量的编译指令，整个编译过程会变得异常繁琐。
+因此，对于C++项目，使用一些工程管理工具会更加高效。历史上工程师们曾使用makefile进行自动编译，但cmake要比它更加方便。&lt;/p></description></item><item><title>GitHub 风格提示框测试</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试">GitHub 风格提示框测试&lt;/h1>
 &lt;p>本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p>
 &lt;h2 id="提示框语法">提示框语法&lt;/h2>
 &lt;h3 id="注意提示框">注意提示框&lt;/h3>
