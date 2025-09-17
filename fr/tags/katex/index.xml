@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Katex on 波奇的小窝</title><link>https://www.funbocchi.top/fr/tags/katex/</link><description>Recent content in Katex on 波奇的小窝</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/fr/tags/katex/index.xml" rel="self" type="application/rss+xml"/><item><title>Test KaTeX et Mermaid</title><link>https://www.funbocchi.top/fr/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/fr/posts/katex-mermaid-test/</guid><description>&lt;h1 id="test-katex-et-mermaid">Test KaTeX et Mermaid&lt;/h1>
-&lt;p>Cet article est utilisé pour tester le rendu des formules mathématiques KaTeX et la fonctionnalité des graphiques Mermaid.&lt;/p>
-&lt;h2 id="test-des-graphiques-mermaid">Test des Graphiques Mermaid&lt;/h2>
-&lt;h3 id="diagramme-de-flux">Diagramme de Flux&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Katex on 波奇的小窝</title><link>https://www.funbocchi.top/fr/tags/katex/</link><description>Recent content in Katex on 波奇的小窝</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/fr/tags/katex/index.xml" rel="self" type="application/rss+xml"/><item><title>Test KaTeX et Mermaid</title><link>https://www.funbocchi.top/fr/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/fr/posts/katex-mermaid-test/</guid><description>&lt;h1 id="test-katex-et-mermaid"&gt;Test KaTeX et Mermaid&lt;/h1&gt;
+&lt;p&gt;Cet article est utilisé pour tester le rendu des formules mathématiques KaTeX et la fonctionnalité des graphiques Mermaid.&lt;/p&gt;
+&lt;h2 id="test-des-graphiques-mermaid"&gt;Test des Graphiques Mermaid&lt;/h2&gt;
+&lt;h3 id="diagramme-de-flux"&gt;Diagramme de Flux&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  graph TD
  A[Début] --&amp;gt; B{Est-ce un utilisateur ?}
  B --&amp;gt;|Oui| C[Afficher l&amp;#39;interface utilisateur]
@@ -17,13 +17,13 @@
  G --&amp;gt;|Non| H[Afficher le message d&amp;#39;erreur]
  H --&amp;gt; D
  E --&amp;gt; I[Fin]
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h3 id="diagramme-de-séquence">Diagramme de Séquence&lt;/h3>
+&lt;h3 id="diagramme-de-séquence"&gt;Diagramme de Séquence&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  sequenceDiagram
  participant Utilisateur
  participant Navigateur
@@ -36,13 +36,13 @@
  BaseDeDonnées--&amp;gt;&amp;gt;Serveur: Retourner les données
  Serveur--&amp;gt;&amp;gt;Navigateur: Retourner le HTML
  Navigateur--&amp;gt;&amp;gt;Utilisateur: Afficher la page
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h3 id="diagramme-de-gantt">Diagramme de Gantt&lt;/h3>
+&lt;h3 id="diagramme-de-gantt"&gt;Diagramme de Gantt&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  gantt
  title Chronologie de Développement du Projet
  dateFormat YYYY-MM-DD
@@ -58,8 +58,8 @@
  Tests unitaires : test1, 2024-02-16, 2024-02-25
  Tests d&amp;#39;intégration : test2, 2024-02-21, 2024-03-01
  Tests utilisateur : test3, 2024-02-26, 2024-03-05
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h2 id="test-katex">Test KaTeX&lt;/h2>
-&lt;h3 id="formules-en-ligne">Formules en Ligne&lt;/h3>
-&lt;p>Ceci est une formule en ligne : $E = mc^2$, la formule d&amp;rsquo;équivalence masse-énergie d&amp;rsquo;Einstein.&lt;/p></description></item></channel></rss>
+&lt;h2 id="test-katex"&gt;Test KaTeX&lt;/h2&gt;
+&lt;h3 id="formules-en-ligne"&gt;Formules en Ligne&lt;/h3&gt;
+&lt;p&gt;Ceci est une formule en ligne : $E = mc^2$, la formule d&amp;rsquo;équivalence masse-énergie d&amp;rsquo;Einstein.&lt;/p&gt;</description></item></channel></rss>

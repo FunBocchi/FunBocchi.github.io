@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Image-Rendering on 波奇的小窝</title><link>https://www.funbocchi.top/categories/image-rendering/</link><description>Recent content in Image-Rendering on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 16 Jan 2024 22:30:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/categories/image-rendering/index.xml" rel="self" type="application/rss+xml"/><item><title>Image Rendering Test</title><link>https://www.funbocchi.top/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test">Image Rendering Test&lt;/h1>
-&lt;p>The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/">LightGallery&lt;/a>
-All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
-&lt;h2 id="single-image">Single Image&lt;/h2>
-&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Image-Rendering on 波奇的小窝</title><link>https://www.funbocchi.top/categories/image-rendering/</link><description>Recent content in Image-Rendering on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 16 Jan 2024 22:30:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/categories/image-rendering/index.xml" rel="self" type="application/rss+xml"/><item><title>Image Rendering Test</title><link>https://www.funbocchi.top/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test"&gt;Image Rendering Test&lt;/h1&gt;
+&lt;p&gt;The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"&gt;LightGallery&lt;/a&gt;
+All images are from &lt;a href="https://unsplash.com/"&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="single-image"&gt;Single Image&lt;/h2&gt;
+&lt;p&gt;
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone)"
@@ -19,17 +19,17 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone)"
- data-gallery-title="Photo by - Daniel Leone" />&lt;/div>
+ data-gallery-title="Photo by - Daniel Leone" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Daniel Leone
- &lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;h2 id="justified-gallery">Justified Gallery&lt;/h2>
-&lt;p>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id="justified-gallery"&gt;Justified Gallery&lt;/h2&gt;
+&lt;p&gt;
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/01.avif"
  alt="https://unsplash.com/@@tobbes_rd"
@@ -42,16 +42,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/01.avif"
  data-gallery-alt="https://unsplash.com/@@tobbes_rd"
- data-gallery-title="Photo by - Tobias Rademacher" />&lt;/div>
+ data-gallery-title="Photo by - Tobias Rademacher" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Tobias Rademacher
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/02.avif"
  alt="https://unsplash.com/@therawhunter"
@@ -64,16 +64,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/02.avif"
  data-gallery-alt="https://unsplash.com/@therawhunter"
- data-gallery-title="Photo by - Massimiliano Morosinotto" />&lt;/div>
+ data-gallery-title="Photo by - Massimiliano Morosinotto" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Massimiliano Morosinotto
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/03.avif"
  alt="https://unsplash.com/@thesaboo"
@@ -86,16 +86,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/03.avif"
  data-gallery-alt="https://unsplash.com/@thesaboo"
- data-gallery-title="Photo by - Sascha Bosshard" />&lt;/div>
+ data-gallery-title="Photo by - Sascha Bosshard" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Sascha Bosshard
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/04.avif"
  alt="https://unsplash.com/@yusufevli"
@@ -108,16 +108,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/04.avif"
  data-gallery-alt="https://unsplash.com/@yusufevli"
- data-gallery-title="Photo by - Yusuf Evli" />&lt;/div>
+ data-gallery-title="Photo by - Yusuf Evli" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Yusuf Evli
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/05.avif"
  alt="https://unsplash.com/@flovayn"
@@ -130,16 +130,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/05.avif"
  data-gallery-alt="https://unsplash.com/@flovayn"
- data-gallery-title="Photo by - Jay Mantri" />&lt;/div>
+ data-gallery-title="Photo by - Jay Mantri" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Jay Mantri
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/06.avif"
  alt="https://unsplash.com/@flovayn"
@@ -152,16 +152,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/06.avif"
  data-gallery-alt="https://unsplash.com/@flovayn"
- data-gallery-title="Photo by - Florian van Duyn" />&lt;/div>
+ data-gallery-title="Photo by - Florian van Duyn" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Florian van Duyn
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/07.avif"
  alt="https://unsplash.com/@juanster"
@@ -174,16 +174,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/07.avif"
  data-gallery-alt="https://unsplash.com/@juanster"
- data-gallery-title="Photo by - Juan Davila" />&lt;/div>
+ data-gallery-title="Photo by - Juan Davila" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Juan Davila
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/08.avif"
  alt="https://unsplash.com/@davidmarcu"
@@ -196,8 +196,8 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/08.avif"
  data-gallery-alt="https://unsplash.com/@davidmarcu"
- data-gallery-title="Photo by - David Marcu" />&lt;/div>
+ data-gallery-title="Photo by - David Marcu" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - David Marcu
- &lt;/figcaption>&lt;/figure>&lt;/p></description></item></channel></rss>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item></channel></rss>

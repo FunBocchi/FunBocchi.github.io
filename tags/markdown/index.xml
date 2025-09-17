@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on 波奇的小窝</title><link>https://www.funbocchi.top/tags/markdown/</link><description>Recent content in Markdown on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Style Alert Test</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing">GitHub Style Alert Testing&lt;/h1>
-&lt;p>This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p>
-&lt;h2 id="alert-syntax">Alert Syntax&lt;/h2>
-&lt;h3 id="note-alert">Note Alert&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on 波奇的小窝</title><link>https://www.funbocchi.top/tags/markdown/</link><description>Recent content in Markdown on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Style Alert Test</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing"&gt;GitHub Style Alert Testing&lt;/h1&gt;
+&lt;p&gt;This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p&gt;
+&lt;h2 id="alert-syntax"&gt;Alert Syntax&lt;/h2&gt;
+&lt;h3 id="note-alert"&gt;Note Alert&lt;/h3&gt;
 &lt;div
  class="alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
  style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
@@ -10,27 +10,27 @@
  onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
  onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
  role="alert"
- aria-labelledby="alert-0-title">
+ aria-labelledby="alert-0-title"&gt;
  
  &lt;div
  class=" flex items-center justify-between px-6 pt-6 pb-3"
- >
- &lt;div class="flex items-center gap-3">
+ &gt;
+ &lt;div class="flex items-center gap-3"&gt;
  
  &lt;h4
  id="alert-0-title"
- class="m-0 font-semibold text-foreground/90">
+ class="m-0 font-semibold text-foreground/90"&gt;
  Note
- &lt;/h4>
- &lt;/div>
+ &lt;/h4&gt;
+ &lt;/div&gt;
 
  
  
- &lt;/div>
+ &lt;/div&gt;
 
  
  &lt;div
  id="alert-0-content"
- class="alert-content px-6 pb-6">
- &lt;div class="prose prose-sm text-foreground/90 max-w-none">
- &lt;p>This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p></description></item><item><title>Markdown Syntax Test Document</title><link>https://www.funbocchi.top/posts/markdown-syntax-test-document/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/markdown-syntax-test-document/</guid><description>This is a test document containing various Markdown syntax to verify the completeness of prose styles.</description></item></channel></rss>
+ class="alert-content px-6 pb-6"&gt;
+ &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
+ &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description></item><item><title>Markdown Syntax Test Document</title><link>https://www.funbocchi.top/posts/markdown-syntax-test-document/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/markdown-syntax-test-document/</guid><description>This is a test document containing various Markdown syntax to verify the completeness of prose styles.</description></item></channel></rss>

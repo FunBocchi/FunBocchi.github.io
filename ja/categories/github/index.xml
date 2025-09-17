@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on 波奇的小窝</title><link>https://www.funbocchi.top/ja/categories/github/</link><description>Recent content in Github on 波奇的小窝</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/ja/categories/github/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHubスタイルアラートテスト</title><link>https://www.funbocchi.top/ja/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/ja/posts/test-alert/</guid><description>&lt;h1 id="githubスタイルアラートテスト">GitHubスタイルアラートテスト&lt;/h1>
-&lt;p>この記事は新しいGitHubスタイルアラート機能と折りたたみ機能をテストするために使用されます。&lt;/p>
-&lt;h2 id="アラート構文">アラート構文&lt;/h2>
-&lt;h3 id="ノートアラート">ノートアラート&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on 波奇的小窝</title><link>https://www.funbocchi.top/ja/categories/github/</link><description>Recent content in Github on 波奇的小窝</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/ja/categories/github/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHubスタイルアラートテスト</title><link>https://www.funbocchi.top/ja/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/ja/posts/test-alert/</guid><description>&lt;h1 id="githubスタイルアラートテスト"&gt;GitHubスタイルアラートテスト&lt;/h1&gt;
+&lt;p&gt;この記事は新しいGitHubスタイルアラート機能と折りたたみ機能をテストするために使用されます。&lt;/p&gt;
+&lt;h2 id="アラート構文"&gt;アラート構文&lt;/h2&gt;
+&lt;h3 id="ノートアラート"&gt;ノートアラート&lt;/h3&gt;
 &lt;div
  class="alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
  style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
@@ -10,27 +10,27 @@
  onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
  onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
  role="alert"
- aria-labelledby="alert-0-title">
+ aria-labelledby="alert-0-title"&gt;
  
  &lt;div
  class=" flex items-center justify-between px-6 pt-6 pb-3"
- >
- &lt;div class="flex items-center gap-3">
+ &gt;
+ &lt;div class="flex items-center gap-3"&gt;
  
  &lt;h4
  id="alert-0-title"
- class="m-0 font-semibold text-foreground/90">
+ class="m-0 font-semibold text-foreground/90"&gt;
  注意
- &lt;/h4>
- &lt;/div>
+ &lt;/h4&gt;
+ &lt;/div&gt;
 
  
  
- &lt;/div>
+ &lt;/div&gt;
 
  
  &lt;div
  id="alert-0-content"
- class="alert-content px-6 pb-6">
- &lt;div class="prose prose-sm text-foreground/90 max-w-none">
- &lt;p>これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p></description></item></channel></rss>
+ class="alert-content px-6 pb-6"&gt;
+ &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
+ &lt;p&gt;これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p&gt;</description></item></channel></rss>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on 波奇的小窝</title><link>https://www.funbocchi.top/tags/test/</link><description>Recent content in Test on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Style Alert Test</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing">GitHub Style Alert Testing&lt;/h1>
-&lt;p>This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p>
-&lt;h2 id="alert-syntax">Alert Syntax&lt;/h2>
-&lt;h3 id="note-alert">Note Alert&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on 波奇的小窝</title><link>https://www.funbocchi.top/tags/test/</link><description>Recent content in Test on 波奇的小窝</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Style Alert Test</title><link>https://www.funbocchi.top/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing"&gt;GitHub Style Alert Testing&lt;/h1&gt;
+&lt;p&gt;This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p&gt;
+&lt;h2 id="alert-syntax"&gt;Alert Syntax&lt;/h2&gt;
+&lt;h3 id="note-alert"&gt;Note Alert&lt;/h3&gt;
 &lt;div
  class="alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
  style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
@@ -10,38 +10,38 @@
  onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
  onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
  role="alert"
- aria-labelledby="alert-0-title">
+ aria-labelledby="alert-0-title"&gt;
  
  &lt;div
  class=" flex items-center justify-between px-6 pt-6 pb-3"
- >
- &lt;div class="flex items-center gap-3">
+ &gt;
+ &lt;div class="flex items-center gap-3"&gt;
  
  &lt;h4
  id="alert-0-title"
- class="m-0 font-semibold text-foreground/90">
+ class="m-0 font-semibold text-foreground/90"&gt;
  Note
- &lt;/h4>
- &lt;/div>
+ &lt;/h4&gt;
+ &lt;/div&gt;
 
  
  
- &lt;/div>
+ &lt;/div&gt;
 
  
  &lt;div
  id="alert-0-content"
- class="alert-content px-6 pb-6">
- &lt;div class="prose prose-sm text-foreground/90 max-w-none">
- &lt;p>This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p></description></item><item><title>Image Rendering Test</title><link>https://www.funbocchi.top/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test">Image Rendering Test&lt;/h1>
-&lt;p>The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/">LightGallery&lt;/a>
-All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
-&lt;h2 id="single-image">Single Image&lt;/h2>
-&lt;p>
+ class="alert-content px-6 pb-6"&gt;
+ &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
+ &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description></item><item><title>Image Rendering Test</title><link>https://www.funbocchi.top/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test"&gt;Image Rendering Test&lt;/h1&gt;
+&lt;p&gt;The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"&gt;LightGallery&lt;/a&gt;
+All images are from &lt;a href="https://unsplash.com/"&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="single-image"&gt;Single Image&lt;/h2&gt;
+&lt;p&gt;
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone)"
@@ -54,17 +54,17 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone)"
- data-gallery-title="Photo by - Daniel Leone" />&lt;/div>
+ data-gallery-title="Photo by - Daniel Leone" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Daniel Leone
- &lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;h2 id="justified-gallery">Justified Gallery&lt;/h2>
-&lt;p>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id="justified-gallery"&gt;Justified Gallery&lt;/h2&gt;
+&lt;p&gt;
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/01.avif"
  alt="https://unsplash.com/@@tobbes_rd"
@@ -77,16 +77,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/01.avif"
  data-gallery-alt="https://unsplash.com/@@tobbes_rd"
- data-gallery-title="Photo by - Tobias Rademacher" />&lt;/div>
+ data-gallery-title="Photo by - Tobias Rademacher" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Tobias Rademacher
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/02.avif"
  alt="https://unsplash.com/@therawhunter"
@@ -99,16 +99,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/02.avif"
  data-gallery-alt="https://unsplash.com/@therawhunter"
- data-gallery-title="Photo by - Massimiliano Morosinotto" />&lt;/div>
+ data-gallery-title="Photo by - Massimiliano Morosinotto" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Massimiliano Morosinotto
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/03.avif"
  alt="https://unsplash.com/@thesaboo"
@@ -121,16 +121,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/03.avif"
  data-gallery-alt="https://unsplash.com/@thesaboo"
- data-gallery-title="Photo by - Sascha Bosshard" />&lt;/div>
+ data-gallery-title="Photo by - Sascha Bosshard" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Sascha Bosshard
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/04.avif"
  alt="https://unsplash.com/@yusufevli"
@@ -143,16 +143,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/04.avif"
  data-gallery-alt="https://unsplash.com/@yusufevli"
- data-gallery-title="Photo by - Yusuf Evli" />&lt;/div>
+ data-gallery-title="Photo by - Yusuf Evli" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Yusuf Evli
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/05.avif"
  alt="https://unsplash.com/@flovayn"
@@ -165,16 +165,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/05.avif"
  data-gallery-alt="https://unsplash.com/@flovayn"
- data-gallery-title="Photo by - Jay Mantri" />&lt;/div>
+ data-gallery-title="Photo by - Jay Mantri" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Jay Mantri
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/06.avif"
  alt="https://unsplash.com/@flovayn"
@@ -187,16 +187,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/06.avif"
  data-gallery-alt="https://unsplash.com/@flovayn"
- data-gallery-title="Photo by - Florian van Duyn" />&lt;/div>
+ data-gallery-title="Photo by - Florian van Duyn" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Florian van Duyn
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/07.avif"
  alt="https://unsplash.com/@juanster"
@@ -209,16 +209,16 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/07.avif"
  data-gallery-alt="https://unsplash.com/@juanster"
- data-gallery-title="Photo by - Juan Davila" />&lt;/div>
+ data-gallery-title="Photo by - Juan Davila" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - Juan Davila
- &lt;/figcaption>&lt;/figure>
+ &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure class="image-figure not-prose my-8" 
  data-lightbox-enabled="true"
- data-gallery-type="auto">
- &lt;div class="image-container">
+ data-gallery-type="auto"&gt;
+ &lt;div class="image-container"&gt;
  &lt;img
  src="https://www.funbocchi.top/images/08.avif"
  alt="https://unsplash.com/@davidmarcu"
@@ -231,35 +231,35 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  decoding="async"
  data-gallery-src="https://www.funbocchi.top/images/08.avif"
  data-gallery-alt="https://unsplash.com/@davidmarcu"
- data-gallery-title="Photo by - David Marcu" />&lt;/div>
+ data-gallery-title="Photo by - David Marcu" /&gt;&lt;/div&gt;
 
- &lt;figcaption class="image-caption">
+ &lt;figcaption class="image-caption"&gt;
  Photo by - David Marcu
- &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Code Highlighting Test</title><link>https://www.funbocchi.top/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/code-highlighting-test/</guid><description>&lt;h1 id="code-highlighting-test">Code Highlighting Test&lt;/h1>
-&lt;p>This article is used to test the new code highlighting feature, including syntax highlighting, copy button, language display, etc.&lt;/p>
-&lt;h2 id="javascript">JavaScript&lt;/h2>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>Code Highlighting Test</title><link>https://www.funbocchi.top/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/posts/code-highlighting-test/</guid><description>&lt;h1 id="code-highlighting-test"&gt;Code Highlighting Test&lt;/h1&gt;
+&lt;p&gt;This article is used to test the new code highlighting feature, including syntax highlighting, copy button, language display, etc.&lt;/p&gt;
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
 &lt;div
- class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"&gt;
  
  &lt;div
- class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3"&gt;
  
- &lt;div class="flex items-center gap-2">
- &lt;div class="text-muted-foreground flex-shrink-0">
+ &lt;div class="flex items-center gap-2"&gt;
+ &lt;div class="text-muted-foreground flex-shrink-0"&gt;
  
  &lt;svg class="h-4 w-4"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-&lt;/svg>
- &lt;/div>
- &lt;span class="text-muted-foreground text-sm font-medium">
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ &lt;span class="text-muted-foreground text-sm font-medium"&gt;
  JAVASCRIPT
- &lt;/span>
- &lt;/div>
+ &lt;/span&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="flex items-center gap-2">
+ &lt;div class="flex items-center gap-2"&gt;
  &lt;button
  class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-0"
@@ -269,73 +269,73 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  data-auto-collapse-height="400"
  data-collapsed-height="120"
  title="Collapse"
- aria-label="Collapse">
- &lt;span class="collapse-icon">
+ aria-label="Collapse"&gt;
+ &lt;span class="collapse-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/&gt;&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="collapse-text hidden sm:inline"
- >Collapse&lt;/span
- >
- &lt;/button>
+ &gt;Collapse&lt;/span
+ &gt;
+ &lt;/button&gt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-0"
  title="Copy"
- aria-label="Copy">
- &lt;span class="copy-icon">
+ aria-label="Copy"&gt;
+ &lt;span class="copy-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /&gt;
+&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="copy-text hidden sm:inline"
- >Copy&lt;/span
- >
- &lt;/button>
- &lt;/div>
- &lt;/div>
+ &gt;Copy&lt;/span
+ &gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="code-block-content relative" id="code-0">
- &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-javascript" data-lang="javascript">&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">function&lt;/span> &lt;span class="nx">fibonacci&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">n&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">n&lt;/span> &lt;span class="o">&amp;lt;=&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">return&lt;/span> &lt;span class="nx">n&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">fibonacci&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">n&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="nx">fibonacci&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">n&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">const&lt;/span> &lt;span class="nx">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">fibonacci&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">10&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sb">`The 10th Fibonacci number is: &lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nx">result&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Async/Await
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">asyncFunction&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kr">async&lt;/span> &lt;span class="p">()&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">const&lt;/span> &lt;span class="nx">response&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kr">await&lt;/span> &lt;span class="nx">fetch&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;/api/data&amp;#39;&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">const&lt;/span> &lt;span class="nx">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kr">await&lt;/span> &lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">json&lt;/span>&lt;span class="p">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">data&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span> &lt;span class="k">catch&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">error&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">error&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;Error fetching data:&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">error&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">};&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ &lt;div class="code-block-content relative" id="code-0"&gt;
+ &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;fibonacci&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;n&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;n&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;fibonacci&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;n&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nx"&gt;fibonacci&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;n&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;fibonacci&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sb"&gt;`The 10th Fibonacci number is: &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nx"&gt;result&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;// Async/Await
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;&lt;/span&gt;&lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;asyncFunction&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kr"&gt;async&lt;/span&gt; &lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;try&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kr"&gt;await&lt;/span&gt; &lt;span class="nx"&gt;fetch&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;/api/data&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kr"&gt;await&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;json&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;data&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="k"&gt;catch&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;error&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;error&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Error fetching data:&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;error&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;};&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
  
  &lt;div
- class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300"&gt;
  &lt;div
- class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200"&gt;
  Click to expand and view more
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;script>
+&lt;script&gt;
 (function() {
  const codeId = 'code-0';
  const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
@@ -367,9 +367,9 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (hasInlineLineNumbers) {
  
  const codeLines = codeElement.querySelectorAll('.cl');
- if (codeLines.length > 0) {
+ if (codeLines.length &gt; 0) {
  codeText = Array.from(codeLines)
- .map(line => {
+ .map(line =&gt; {
  const text = line.textContent || line.innerText;
  
  return text.replace(/\n+$/, '');
@@ -405,7 +405,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyBtn.classList.add('text-green-600');
 
  
- setTimeout(() => {
+ setTimeout(() =&gt; {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
  copyText.textContent = 'Copy';
@@ -429,7 +429,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyText.textContent = 'Selected';
  }
 
- setTimeout(() => {
+ setTimeout(() =&gt; {
  if (copyText) {
  copyText.textContent = 'Copy';
  }
@@ -476,19 +476,19 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (codeElement) {
  const lines = codeElement.querySelectorAll('.line, .cl');
  const height = codeElement.offsetHeight;
- return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ return lines.length &gt; autoCollapseLines || height &gt; autoCollapseHeight;
  }
 
  
  const containerHeight = codeContainer.offsetHeight;
- if (containerHeight > autoCollapseHeight) {
+ if (containerHeight &gt; autoCollapseHeight) {
  return true;
  }
 
  
  const textContent = codeContainer.textContent || codeContainer.innerText || '';
  const estimatedLines = textContent.split('\n').length;
- return estimatedLines > autoCollapseLines;
+ return estimatedLines &gt; autoCollapseLines;
  }
 
  function setCollapsed(collapsed, animate = true) {
@@ -528,7 +528,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  
  if (animate) {
  codeContainer.style.transition = 'max-height 0.3s ease-out';
- setTimeout(() => {
+ setTimeout(() =&gt; {
  codeContainer.style.transition = '';
  }, 300);
  }
@@ -543,7 +543,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
 
  
  if (collapseOverlay) {
- collapseOverlay.addEventListener('click', () => {
+ collapseOverlay.addEventListener('click', () =&gt; {
  if (isCollapsed) {
  setCollapsed(false, true);
  }
@@ -554,30 +554,30 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  initCollapse();
  }
 })();
-&lt;/script>
-&lt;h2 id="codeblock-with-line-numbers">Codeblock with Line Numbers&lt;/h2>
+&lt;/script&gt;
+&lt;h2 id="codeblock-with-line-numbers"&gt;Codeblock with Line Numbers&lt;/h2&gt;
 &lt;div
- class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"&gt;
  
  &lt;div
- class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3"&gt;
  
- &lt;div class="flex items-center gap-2">
- &lt;div class="text-muted-foreground flex-shrink-0">
+ &lt;div class="flex items-center gap-2"&gt;
+ &lt;div class="text-muted-foreground flex-shrink-0"&gt;
  
  &lt;svg class="h-4 w-4"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-&lt;/svg>
- &lt;/div>
- &lt;span class="text-muted-foreground text-sm font-medium">
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ &lt;span class="text-muted-foreground text-sm font-medium"&gt;
  PYTHON
- &lt;/span>
- &lt;/div>
+ &lt;/span&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="flex items-center gap-2">
+ &lt;div class="flex items-center gap-2"&gt;
  &lt;button
  class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-1"
@@ -587,76 +587,76 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  data-auto-collapse-height="400"
  data-collapsed-height="120"
  title="Collapse"
- aria-label="Collapse">
- &lt;span class="collapse-icon">
+ aria-label="Collapse"&gt;
+ &lt;span class="collapse-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/&gt;&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="collapse-text hidden sm:inline"
- >Collapse&lt;/span
- >
- &lt;/button>
+ &gt;Collapse&lt;/span
+ &gt;
+ &lt;/button&gt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-1"
  title="Copy"
- aria-label="Copy">
- &lt;span class="copy-icon">
+ aria-label="Copy"&gt;
+ &lt;span class="copy-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /&gt;
+&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="copy-text hidden sm:inline"
- >Copy&lt;/span
- >
- &lt;/button>
- &lt;/div>
- &lt;/div>
+ &gt;Copy&lt;/span
+ &gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="code-block-content relative" id="code-1">
- &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="ln"> 1&lt;/span>&lt;span class="cl">&lt;span class="c1"># Python with line numbers&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 2&lt;/span>&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">asyncio&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 3&lt;/span>&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">typing&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">List&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">Optional&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 4&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 5&lt;/span>&lt;span class="cl">&lt;span class="k">class&lt;/span> &lt;span class="nc">DataProcessor&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 6&lt;/span>&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="fm">__init__&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">data&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="n">List&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="nb">dict&lt;/span>&lt;span class="p">]):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 7&lt;/span>&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">data&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 8&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 9&lt;/span>&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">process&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">-&amp;gt;&lt;/span> &lt;span class="n">Optional&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="nb">dict&lt;/span>&lt;span class="p">]:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">10&lt;/span>&lt;span class="cl"> &lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;Process the data and return the result&amp;#34;&amp;#34;&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">11&lt;/span>&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="ow">not&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">data&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">12&lt;/span>&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="kc">None&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">13&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">14&lt;/span>&lt;span class="cl"> &lt;span class="n">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">15&lt;/span>&lt;span class="cl"> &lt;span class="s1">&amp;#39;total&amp;#39;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">data&lt;/span>&lt;span class="p">),&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">16&lt;/span>&lt;span class="cl"> &lt;span class="s1">&amp;#39;processed&amp;#39;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">17&lt;/span>&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">18&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">19&lt;/span>&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">item&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">data&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">20&lt;/span>&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">validate_item&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">item&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">21&lt;/span>&lt;span class="cl"> &lt;span class="n">result&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="s1">&amp;#39;processed&amp;#39;&lt;/span>&lt;span class="p">]&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">append&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">item&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">22&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">23&lt;/span>&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">result&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ &lt;div class="code-block-content relative" id="code-1"&gt;
+ &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 1&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Python with line numbers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 2&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;asyncio&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 3&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;typing&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;List&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Optional&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 4&lt;/span&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 5&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;DataProcessor&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 6&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="fm"&gt;__init__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;List&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nb"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;]):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 7&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 8&lt;/span&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 9&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;process&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;Optional&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nb"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;10&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="s2"&gt;&amp;#34;&amp;#34;&amp;#34;Process the data and return the result&amp;#34;&amp;#34;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;11&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;12&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kc"&gt;None&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;13&lt;/span&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;14&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;15&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="s1"&gt;&amp;#39;total&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;16&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="s1"&gt;&amp;#39;processed&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;[]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;17&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;18&lt;/span&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;19&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;item&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;20&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;validate_item&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;21&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;processed&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;append&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;22&lt;/span&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;23&lt;/span&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
  
  &lt;div
- class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300"&gt;
  &lt;div
- class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200"&gt;
  Click to expand and view more
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;script>
+&lt;script&gt;
 (function() {
  const codeId = 'code-1';
  const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
@@ -688,9 +688,9 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (hasInlineLineNumbers) {
  
  const codeLines = codeElement.querySelectorAll('.cl');
- if (codeLines.length > 0) {
+ if (codeLines.length &gt; 0) {
  codeText = Array.from(codeLines)
- .map(line => {
+ .map(line =&gt; {
  const text = line.textContent || line.innerText;
  
  return text.replace(/\n+$/, '');
@@ -726,7 +726,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyBtn.classList.add('text-green-600');
 
  
- setTimeout(() => {
+ setTimeout(() =&gt; {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
  copyText.textContent = 'Copy';
@@ -750,7 +750,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyText.textContent = 'Selected';
  }
 
- setTimeout(() => {
+ setTimeout(() =&gt; {
  if (copyText) {
  copyText.textContent = 'Copy';
  }
@@ -797,19 +797,19 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (codeElement) {
  const lines = codeElement.querySelectorAll('.line, .cl');
  const height = codeElement.offsetHeight;
- return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ return lines.length &gt; autoCollapseLines || height &gt; autoCollapseHeight;
  }
 
  
  const containerHeight = codeContainer.offsetHeight;
- if (containerHeight > autoCollapseHeight) {
+ if (containerHeight &gt; autoCollapseHeight) {
  return true;
  }
 
  
  const textContent = codeContainer.textContent || codeContainer.innerText || '';
  const estimatedLines = textContent.split('\n').length;
- return estimatedLines > autoCollapseLines;
+ return estimatedLines &gt; autoCollapseLines;
  }
 
  function setCollapsed(collapsed, animate = true) {
@@ -849,7 +849,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  
  if (animate) {
  codeContainer.style.transition = 'max-height 0.3s ease-out';
- setTimeout(() => {
+ setTimeout(() =&gt; {
  codeContainer.style.transition = '';
  }, 300);
  }
@@ -864,7 +864,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
 
  
  if (collapseOverlay) {
- collapseOverlay.addEventListener('click', () => {
+ collapseOverlay.addEventListener('click', () =&gt; {
  if (isCollapsed) {
  setCollapsed(false, true);
  }
@@ -875,30 +875,30 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  initCollapse();
  }
 })();
-&lt;/script>
-&lt;h2 id="highlighting-specific-lines">Highlighting Specific Lines&lt;/h2>
+&lt;/script&gt;
+&lt;h2 id="highlighting-specific-lines"&gt;Highlighting Specific Lines&lt;/h2&gt;
 &lt;div
- class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"&gt;
  
  &lt;div
- class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3"&gt;
  
- &lt;div class="flex items-center gap-2">
- &lt;div class="text-muted-foreground flex-shrink-0">
+ &lt;div class="flex items-center gap-2"&gt;
+ &lt;div class="text-muted-foreground flex-shrink-0"&gt;
  
  &lt;svg class="h-4 w-4"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-&lt;/svg>
- &lt;/div>
- &lt;span class="text-muted-foreground text-sm font-medium">
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ &lt;span class="text-muted-foreground text-sm font-medium"&gt;
  GO
- &lt;/span>
- &lt;/div>
+ &lt;/span&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="flex items-center gap-2">
+ &lt;div class="flex items-center gap-2"&gt;
  &lt;button
  class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-2"
@@ -908,66 +908,66 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  data-auto-collapse-height="400"
  data-collapsed-height="120"
  title="Collapse"
- aria-label="Collapse">
- &lt;span class="collapse-icon">
+ aria-label="Collapse"&gt;
+ &lt;span class="collapse-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/&gt;&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="collapse-text hidden sm:inline"
- >Collapse&lt;/span
- >
- &lt;/button>
+ &gt;Collapse&lt;/span
+ &gt;
+ &lt;/button&gt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-2"
  title="Copy"
- aria-label="Copy">
- &lt;span class="copy-icon">
+ aria-label="Copy"&gt;
+ &lt;span class="copy-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /&gt;
+&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="copy-text hidden sm:inline"
- >Copy&lt;/span
- >
- &lt;/button>
- &lt;/div>
- &lt;/div>
+ &gt;Copy&lt;/span
+ &gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="code-block-content relative" id="code-2">
- &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="ln"> 1&lt;/span>&lt;span class="cl">&lt;span class="kn">package&lt;/span> &lt;span class="nx">main&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 2&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line hl">&lt;span class="ln"> 3&lt;/span>&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="s">&amp;#34;fmt&amp;#34;&lt;/span> &lt;span class="c1">// This line will be highlighted&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 4&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 5&lt;/span>&lt;span class="cl">&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line hl">&lt;span class="ln"> 6&lt;/span>&lt;span class="cl"> &lt;span class="nx">message&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="s">&amp;#34;Hello, World!&amp;#34;&lt;/span> &lt;span class="c1">// This line will also be highlighted&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 7&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line hl">&lt;span class="ln"> 8&lt;/span>&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">message&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="c1">// This line will also be highlighted&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln"> 9&lt;/span>&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">10&lt;/span>&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="nx">i&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="nx">i&lt;/span> &lt;span class="p">&amp;lt;&lt;/span> &lt;span class="mi">3&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="nx">i&lt;/span>&lt;span class="o">++&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">11&lt;/span>&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Count: %d\n&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">i&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">12&lt;/span>&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">13&lt;/span>&lt;span class="cl">&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ &lt;div class="code-block-content relative" id="code-2"&gt;
+ &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-go" data-lang="go"&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 1&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="kn"&gt;package&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;main&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 2&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line hl"&gt;&lt;span class="ln"&gt; 3&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// This line will be highlighted&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 4&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 5&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;&lt;/span&gt;&lt;span class="kd"&gt;func&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line hl"&gt;&lt;span class="ln"&gt; 6&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;message&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;:=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// This line will also be highlighted&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 7&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line hl"&gt;&lt;span class="ln"&gt; 8&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;fmt&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;Println&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;message&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// This line will also be highlighted&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt; 9&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;10&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;:=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;11&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;fmt&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;Printf&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;Count: %d\n&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;12&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;13&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;&lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
  
  &lt;div
- class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300"&gt;
  &lt;div
- class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200"&gt;
  Click to expand and view more
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;script>
+&lt;script&gt;
 (function() {
  const codeId = 'code-2';
  const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
@@ -999,9 +999,9 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (hasInlineLineNumbers) {
  
  const codeLines = codeElement.querySelectorAll('.cl');
- if (codeLines.length > 0) {
+ if (codeLines.length &gt; 0) {
  codeText = Array.from(codeLines)
- .map(line => {
+ .map(line =&gt; {
  const text = line.textContent || line.innerText;
  
  return text.replace(/\n+$/, '');
@@ -1037,7 +1037,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyBtn.classList.add('text-green-600');
 
  
- setTimeout(() => {
+ setTimeout(() =&gt; {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
  copyText.textContent = 'Copy';
@@ -1061,7 +1061,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyText.textContent = 'Selected';
  }
 
- setTimeout(() => {
+ setTimeout(() =&gt; {
  if (copyText) {
  copyText.textContent = 'Copy';
  }
@@ -1108,19 +1108,19 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (codeElement) {
  const lines = codeElement.querySelectorAll('.line, .cl');
  const height = codeElement.offsetHeight;
- return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ return lines.length &gt; autoCollapseLines || height &gt; autoCollapseHeight;
  }
 
  
  const containerHeight = codeContainer.offsetHeight;
- if (containerHeight > autoCollapseHeight) {
+ if (containerHeight &gt; autoCollapseHeight) {
  return true;
  }
 
  
  const textContent = codeContainer.textContent || codeContainer.innerText || '';
  const estimatedLines = textContent.split('\n').length;
- return estimatedLines > autoCollapseLines;
+ return estimatedLines &gt; autoCollapseLines;
  }
 
  function setCollapsed(collapsed, animate = true) {
@@ -1160,7 +1160,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  
  if (animate) {
  codeContainer.style.transition = 'max-height 0.3s ease-out';
- setTimeout(() => {
+ setTimeout(() =&gt; {
  codeContainer.style.transition = '';
  }, 300);
  }
@@ -1175,7 +1175,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
 
  
  if (collapseOverlay) {
- collapseOverlay.addEventListener('click', () => {
+ collapseOverlay.addEventListener('click', () =&gt; {
  if (isCollapsed) {
  setCollapsed(false, true);
  }
@@ -1186,30 +1186,30 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  initCollapse();
  }
 })();
-&lt;/script>
-&lt;h2 id="codeblock-with-filename">Codeblock with Filename&lt;/h2>
+&lt;/script&gt;
+&lt;h2 id="codeblock-with-filename"&gt;Codeblock with Filename&lt;/h2&gt;
 &lt;div
- class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"&gt;
  
  &lt;div
- class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3"&gt;
  
- &lt;div class="flex items-center gap-2">
- &lt;div class="text-muted-foreground flex-shrink-0">
+ &lt;div class="flex items-center gap-2"&gt;
+ &lt;div class="text-muted-foreground flex-shrink-0"&gt;
  
  &lt;svg class="h-4 w-4"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-&lt;/svg>
- &lt;/div>
- &lt;span class="text-muted-foreground text-sm font-medium">
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ &lt;span class="text-muted-foreground text-sm font-medium"&gt;
  api.ts
- &lt;/span>
- &lt;/div>
+ &lt;/span&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="flex items-center gap-2">
+ &lt;div class="flex items-center gap-2"&gt;
  &lt;button
  class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-3"
@@ -1219,114 +1219,114 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  data-auto-collapse-height="400"
  data-collapsed-height="120"
  title="Collapse"
- aria-label="Collapse">
- &lt;span class="collapse-icon">
+ aria-label="Collapse"&gt;
+ &lt;span class="collapse-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/&gt;&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="collapse-text hidden sm:inline"
- >Collapse&lt;/span
- >
- &lt;/button>
+ &gt;Collapse&lt;/span
+ &gt;
+ &lt;/button&gt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-3"
  title="Copy"
- aria-label="Copy">
- &lt;span class="copy-icon">
+ aria-label="Copy"&gt;
+ &lt;span class="copy-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /&gt;
+&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="copy-text hidden sm:inline"
- >Copy&lt;/span
- >
- &lt;/button>
- &lt;/div>
- &lt;/div>
+ &gt;Copy&lt;/span
+ &gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="code-block-content relative" id="code-3">
- &lt;div class="highlight" filename="api.ts">&lt;pre tabindex="0" class="chroma">&lt;code class="language-typescript" data-lang="typescript">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// TypeScript API
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">interface&lt;/span> &lt;span class="nx">ApiResponse&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">T&lt;/span>&lt;span class="p">&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">data&lt;/span>: &lt;span class="kt">T&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">status&lt;/span>: &lt;span class="kt">number&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">message&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">interface&lt;/span> &lt;span class="nx">User&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">id&lt;/span>: &lt;span class="kt">number&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">name&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">email&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">avatar?&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">class&lt;/span> &lt;span class="nx">ApiClient&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">private&lt;/span> &lt;span class="nx">baseURL&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">private&lt;/span> &lt;span class="nx">headers&lt;/span>: &lt;span class="kt">Record&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">string&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="na">string&lt;/span>&lt;span class="p">&amp;gt;;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">constructor&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">baseURL&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">apiKey?&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">baseURL&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">baseURL&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">headers&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s1">&amp;#39;Content-Type&amp;#39;&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;application/json&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">...(&lt;/span>&lt;span class="nx">apiKey&lt;/span> &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="s1">&amp;#39;Authorization&amp;#39;&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="sb">`Bearer &lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nx">apiKey&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="sb">`&lt;/span> &lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">};&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">async&lt;/span> &lt;span class="kr">get&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">T&lt;/span>&lt;span class="p">&amp;gt;(&lt;/span>&lt;span class="nx">endpoint&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="nx">Promise&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">ApiResponse&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">T&lt;/span>&lt;span class="p">&amp;gt;&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">const&lt;/span> &lt;span class="nx">response&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">await&lt;/span> &lt;span class="nx">fetch&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">baseURL&lt;/span>&lt;span class="si">}${&lt;/span>&lt;span class="nx">endpoint&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">method&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;GET&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">headers&lt;/span>: &lt;span class="kt">this.headers&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">});&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="o">!&lt;/span>&lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">ok&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">throw&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="nb">Error&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sb">`HTTP error! status: &lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">status&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">json&lt;/span>&lt;span class="p">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">async&lt;/span> &lt;span class="nx">post&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">T&lt;/span>&lt;span class="p">&amp;gt;(&lt;/span>&lt;span class="nx">endpoint&lt;/span>: &lt;span class="kt">string&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">data&lt;/span>: &lt;span class="kt">any&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="nx">Promise&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">ApiResponse&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">T&lt;/span>&lt;span class="p">&amp;gt;&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">const&lt;/span> &lt;span class="nx">response&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">await&lt;/span> &lt;span class="nx">fetch&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">baseURL&lt;/span>&lt;span class="si">}${&lt;/span>&lt;span class="nx">endpoint&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">method&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;POST&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">headers&lt;/span>: &lt;span class="kt">this.headers&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">body&lt;/span>: &lt;span class="kt">JSON.stringify&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">data&lt;/span>&lt;span class="p">),&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">});&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">json&lt;/span>&lt;span class="p">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">const&lt;/span> &lt;span class="nx">client&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="nx">ApiClient&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://api.example.com&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;your-api-key&amp;#39;&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">async&lt;/span> &lt;span class="kd">function&lt;/span> &lt;span class="nx">getUsers&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="nx">Promise&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">User&lt;/span>&lt;span class="err">[]&lt;/span>&lt;span class="p">&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kr">const&lt;/span> &lt;span class="nx">response&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">await&lt;/span> &lt;span class="nx">client&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="kr">get&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">User&lt;/span>&lt;span class="err">[]&lt;/span>&lt;span class="p">&amp;gt;(&lt;/span>&lt;span class="s1">&amp;#39;/users&amp;#39;&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">data&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span> &lt;span class="k">catch&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">error&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">error&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;Error fetching users:&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">error&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">[];&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ &lt;div class="code-block-content relative" id="code-3"&gt;
+ &lt;div class="highlight" filename="api.ts"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-typescript" data-lang="typescript"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;// TypeScript API
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;&lt;/span&gt;&lt;span class="kr"&gt;interface&lt;/span&gt; &lt;span class="nx"&gt;ApiResponse&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;T&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;data&lt;/span&gt;: &lt;span class="kt"&gt;T&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;status&lt;/span&gt;: &lt;span class="kt"&gt;number&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;message&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kr"&gt;interface&lt;/span&gt; &lt;span class="nx"&gt;User&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;id&lt;/span&gt;: &lt;span class="kt"&gt;number&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;name&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;email&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;avatar?&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kr"&gt;class&lt;/span&gt; &lt;span class="nx"&gt;ApiClient&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;private&lt;/span&gt; &lt;span class="nx"&gt;baseURL&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;private&lt;/span&gt; &lt;span class="nx"&gt;headers&lt;/span&gt;: &lt;span class="kt"&gt;Record&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="na"&gt;string&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;constructor&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;baseURL&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;apiKey?&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;baseURL&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;baseURL&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;headers&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="s1"&gt;&amp;#39;Content-Type&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;application/json&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;...(&lt;/span&gt;&lt;span class="nx"&gt;apiKey&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Authorization&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="sb"&gt;`Bearer &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nx"&gt;apiKey&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt; &lt;span class="p"&gt;})&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;};&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;async&lt;/span&gt; &lt;span class="kr"&gt;get&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;T&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;(&lt;/span&gt;&lt;span class="nx"&gt;endpoint&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nx"&gt;Promise&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ApiResponse&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;T&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="nx"&gt;fetch&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;baseURL&lt;/span&gt;&lt;span class="si"&gt;}${&lt;/span&gt;&lt;span class="nx"&gt;endpoint&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;method&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;GET&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;headers&lt;/span&gt;: &lt;span class="kt"&gt;this.headers&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="nx"&gt;response&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;ok&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;throw&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nb"&gt;Error&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sb"&gt;`HTTP error! status: &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nx"&gt;response&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;status&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;json&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;async&lt;/span&gt; &lt;span class="nx"&gt;post&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;T&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;(&lt;/span&gt;&lt;span class="nx"&gt;endpoint&lt;/span&gt;: &lt;span class="kt"&gt;string&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;data&lt;/span&gt;: &lt;span class="kt"&gt;any&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nx"&gt;Promise&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ApiResponse&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;T&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="nx"&gt;fetch&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;baseURL&lt;/span&gt;&lt;span class="si"&gt;}${&lt;/span&gt;&lt;span class="nx"&gt;endpoint&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;method&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;POST&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;headers&lt;/span&gt;: &lt;span class="kt"&gt;this.headers&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;body&lt;/span&gt;: &lt;span class="kt"&gt;JSON.stringify&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;data&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;json&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;client&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nx"&gt;ApiClient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://api.example.com&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;your-api-key&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kr"&gt;async&lt;/span&gt; &lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;getUsers&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nx"&gt;Promise&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;User&lt;/span&gt;&lt;span class="err"&gt;[]&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;try&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="nx"&gt;client&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="kr"&gt;get&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;User&lt;/span&gt;&lt;span class="err"&gt;[]&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;/users&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;response&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;data&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="k"&gt;catch&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;error&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;error&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Error fetching users:&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;error&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="p"&gt;[];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
  
  &lt;div
- class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300"&gt;
  &lt;div
- class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200"&gt;
  Click to expand and view more
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;script>
+&lt;script&gt;
 (function() {
  const codeId = 'code-3';
  const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
@@ -1358,9 +1358,9 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (hasInlineLineNumbers) {
  
  const codeLines = codeElement.querySelectorAll('.cl');
- if (codeLines.length > 0) {
+ if (codeLines.length &gt; 0) {
  codeText = Array.from(codeLines)
- .map(line => {
+ .map(line =&gt; {
  const text = line.textContent || line.innerText;
  
  return text.replace(/\n+$/, '');
@@ -1396,7 +1396,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyBtn.classList.add('text-green-600');
 
  
- setTimeout(() => {
+ setTimeout(() =&gt; {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
  copyText.textContent = 'Copy';
@@ -1420,7 +1420,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  copyText.textContent = 'Selected';
  }
 
- setTimeout(() => {
+ setTimeout(() =&gt; {
  if (copyText) {
  copyText.textContent = 'Copy';
  }
@@ -1467,19 +1467,19 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  if (codeElement) {
  const lines = codeElement.querySelectorAll('.line, .cl');
  const height = codeElement.offsetHeight;
- return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ return lines.length &gt; autoCollapseLines || height &gt; autoCollapseHeight;
  }
 
  
  const containerHeight = codeContainer.offsetHeight;
- if (containerHeight > autoCollapseHeight) {
+ if (containerHeight &gt; autoCollapseHeight) {
  return true;
  }
 
  
  const textContent = codeContainer.textContent || codeContainer.innerText || '';
  const estimatedLines = textContent.split('\n').length;
- return estimatedLines > autoCollapseLines;
+ return estimatedLines &gt; autoCollapseLines;
  }
 
  function setCollapsed(collapsed, animate = true) {
@@ -1519,7 +1519,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  
  if (animate) {
  codeContainer.style.transition = 'max-height 0.3s ease-out';
- setTimeout(() => {
+ setTimeout(() =&gt; {
  codeContainer.style.transition = '';
  }, 300);
  }
@@ -1534,7 +1534,7 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
 
  
  if (collapseOverlay) {
- collapseOverlay.addEventListener('click', () => {
+ collapseOverlay.addEventListener('click', () =&gt; {
  if (isCollapsed) {
  setCollapsed(false, true);
  }
@@ -1545,30 +1545,30 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  initCollapse();
  }
 })();
-&lt;/script>
-&lt;h2 id="plain-text-codeblock">Plain Text Codeblock&lt;/h2>
+&lt;/script&gt;
+&lt;h2 id="plain-text-codeblock"&gt;Plain Text Codeblock&lt;/h2&gt;
 &lt;div
- class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"&gt;
  
  &lt;div
- class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3"&gt;
  
- &lt;div class="flex items-center gap-2">
- &lt;div class="text-muted-foreground flex-shrink-0">
+ &lt;div class="flex items-center gap-2"&gt;
+ &lt;div class="text-muted-foreground flex-shrink-0"&gt;
  
  &lt;svg class="h-4 w-4"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-&lt;/svg>
- &lt;/div>
- &lt;span class="text-muted-foreground text-sm font-medium">
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ &lt;span class="text-muted-foreground text-sm font-medium"&gt;
  PLAINTEXT
- &lt;/span>
- &lt;/div>
+ &lt;/span&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="flex items-center gap-2">
+ &lt;div class="flex items-center gap-2"&gt;
  &lt;button
  class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-4"
@@ -1578,60 +1578,60 @@ All images are from &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
  data-auto-collapse-height="400"
  data-collapsed-height="120"
  title="Collapse"
- aria-label="Collapse">
- &lt;span class="collapse-icon">
+ aria-label="Collapse"&gt;
+ &lt;span class="collapse-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/&gt;&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="collapse-text hidden sm:inline"
- >Collapse&lt;/span
- >
- &lt;/button>
+ &gt;Collapse&lt;/span
+ &gt;
+ &lt;/button&gt;
  &lt;button
  class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
  data-code-id="code-4"
  title="Copy"
- aria-label="Copy">
- &lt;span class="copy-icon">
+ aria-label="Copy"&gt;
+ &lt;span class="copy-icon"&gt;
  
  &lt;svg class="h-3 w-3"
  fill="none"
  stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-&lt;/svg>
- &lt;/span>
+ viewBox="0 0 24 24"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /&gt;
+&lt;/svg&gt;
+ &lt;/span&gt;
  &lt;span class="copy-text hidden sm:inline"
- >Copy&lt;/span
- >
- &lt;/button>
- &lt;/div>
- &lt;/div>
+ &gt;Copy&lt;/span
+ &gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 
  
- &lt;div class="code-block-content relative" id="code-4">
- &lt;pre tabindex="0">&lt;code>This is a plain text codeblock.
+ &lt;div class="code-block-content relative" id="code-4"&gt;
+ &lt;pre tabindex="0"&gt;&lt;code&gt;This is a plain text codeblock.
 It should not have syntax highlighting.
 You can test the copy functionality here.
 
 function test() {
  console.log(&amp;#34;This is a test.&amp;#34;);
-}&lt;/code>&lt;/pre>
+}&lt;/code&gt;&lt;/pre&gt;
  
  &lt;div
- class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300"&gt;
  &lt;div
- class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200"&gt;
  Click to expand and view more
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;script>
+&lt;script&gt;
 (function() {
  const codeId = 'code-4';
  const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
@@ -1663,9 +1663,9 @@ function test() {
  if (hasInlineLineNumbers) {
  
  const codeLines = codeElement.querySelectorAll('.cl');
- if (codeLines.length > 0) {
+ if (codeLines.length &gt; 0) {
  codeText = Array.from(codeLines)
- .map(line => {
+ .map(line =&gt; {
  const text = line.textContent || line.innerText;
  
  return text.replace(/\n+$/, '');
@@ -1701,7 +1701,7 @@ function test() {
  copyBtn.classList.add('text-green-600');
 
  
- setTimeout(() => {
+ setTimeout(() =&gt; {
  copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
  if (copyText) {
  copyText.textContent = 'Copy';
@@ -1725,7 +1725,7 @@ function test() {
  copyText.textContent = 'Selected';
  }
 
- setTimeout(() => {
+ setTimeout(() =&gt; {
  if (copyText) {
  copyText.textContent = 'Copy';
  }
@@ -1772,19 +1772,19 @@ function test() {
  if (codeElement) {
  const lines = codeElement.querySelectorAll('.line, .cl');
  const height = codeElement.offsetHeight;
- return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ return lines.length &gt; autoCollapseLines || height &gt; autoCollapseHeight;
  }
 
  
  const containerHeight = codeContainer.offsetHeight;
- if (containerHeight > autoCollapseHeight) {
+ if (containerHeight &gt; autoCollapseHeight) {
  return true;
  }
 
  
  const textContent = codeContainer.textContent || codeContainer.innerText || '';
  const estimatedLines = textContent.split('\n').length;
- return estimatedLines > autoCollapseLines;
+ return estimatedLines &gt; autoCollapseLines;
  }
 
  function setCollapsed(collapsed, animate = true) {
@@ -1824,7 +1824,7 @@ function test() {
  
  if (animate) {
  codeContainer.style.transition = 'max-height 0.3s ease-out';
- setTimeout(() => {
+ setTimeout(() =&gt; {
  codeContainer.style.transition = '';
  }, 300);
  }
@@ -1839,7 +1839,7 @@ function test() {
 
  
  if (collapseOverlay) {
- collapseOverlay.addEventListener('click', () => {
+ collapseOverlay.addEventListener('click', () =&gt; {
  if (isCollapsed) {
  setCollapsed(false, true);
  }
@@ -1850,6 +1850,6 @@ function test() {
  initCollapse();
  }
 })();
-&lt;/script>
-&lt;h2 id="inline-code">Inline Code&lt;/h2>
-&lt;p>This is an inline code example：&lt;code>const x = 42;&lt;/code> and &lt;code>npm install&lt;/code> and &lt;code>git commit -m &amp;quot;update&amp;quot;&lt;/code>.&lt;/p></description></item></channel></rss>
+&lt;/script&gt;
+&lt;h2 id="inline-code"&gt;Inline Code&lt;/h2&gt;
+&lt;p&gt;This is an inline code example：&lt;code&gt;const x = 42;&lt;/code&gt; and &lt;code&gt;npm install&lt;/code&gt; and &lt;code&gt;git commit -m &amp;quot;update&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description></item></channel></rss>

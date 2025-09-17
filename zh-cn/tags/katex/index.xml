@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Katex on 波奇的小窝</title><link>https://www.funbocchi.top/zh-cn/tags/katex/</link><description>Recent content in Katex on 波奇的小窝</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/zh-cn/tags/katex/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeX 和 Mermaid 测试</title><link>https://www.funbocchi.top/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试">KaTeX 和 Mermaid 测试&lt;/h1>
-&lt;p>本文用于测试 KaTeX 数学公式渲染和 Mermaid 图表功能。&lt;/p>
-&lt;h2 id="mermaid-图表测试">Mermaid 图表测试&lt;/h2>
-&lt;h3 id="流程图">流程图&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Katex on 波奇的小窝</title><link>https://www.funbocchi.top/zh-cn/tags/katex/</link><description>Recent content in Katex on 波奇的小窝</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/zh-cn/tags/katex/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeX 和 Mermaid 测试</title><link>https://www.funbocchi.top/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试"&gt;KaTeX 和 Mermaid 测试&lt;/h1&gt;
+&lt;p&gt;本文用于测试 KaTeX 数学公式渲染和 Mermaid 图表功能。&lt;/p&gt;
+&lt;h2 id="mermaid-图表测试"&gt;Mermaid 图表测试&lt;/h2&gt;
+&lt;h3 id="流程图"&gt;流程图&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  graph TD
  A[开始] --&amp;gt; B{是否为用户？}
  B --&amp;gt;|是| C[显示用户界面]
@@ -17,13 +17,13 @@
  G --&amp;gt;|否| H[显示错误信息]
  H --&amp;gt; D
  E --&amp;gt; I[结束]
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h3 id="序列图">序列图&lt;/h3>
+&lt;h3 id="序列图"&gt;序列图&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  sequenceDiagram
  participant 用户
  participant 浏览器
@@ -36,13 +36,13 @@
  数据库--&amp;gt;&amp;gt;服务器: 返回数据
  服务器--&amp;gt;&amp;gt;浏览器: 返回HTML
  浏览器--&amp;gt;&amp;gt;用户: 显示页面
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h3 id="甘特图">甘特图&lt;/h3>
+&lt;h3 id="甘特图"&gt;甘特图&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  gantt
  title 项目开发时间线
  dateFormat YYYY-MM-DD
@@ -58,8 +58,8 @@
  单元测试 : test1, 2024-02-16, 2024-02-25
  集成测试 : test2, 2024-02-21, 2024-03-01
  用户测试 : test3, 2024-02-26, 2024-03-05
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h2 id="katex-测试">KaTeX 测试&lt;/h2>
-&lt;h3 id="行内公式">行内公式&lt;/h3>
-&lt;p>这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p></description></item></channel></rss>
+&lt;h2 id="katex-测试"&gt;KaTeX 测试&lt;/h2&gt;
+&lt;h3 id="行内公式"&gt;行内公式&lt;/h3&gt;
+&lt;p&gt;这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p&gt;</description></item></channel></rss>

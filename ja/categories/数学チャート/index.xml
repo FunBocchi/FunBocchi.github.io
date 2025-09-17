@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数学チャート on 波奇的小窝</title><link>https://www.funbocchi.top/ja/categories/%E6%95%B0%E5%AD%A6%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/</link><description>Recent content in 数学チャート on 波奇的小窝</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/ja/categories/%E6%95%B0%E5%AD%A6%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeXとMermaidテスト</title><link>https://www.funbocchi.top/ja/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/ja/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katexとmermaidテスト">KaTeXとMermaidテスト&lt;/h1>
-&lt;p>この記事はKaTeX数式レンダリングとMermaidチャート機能をテストするために使用されます。&lt;/p>
-&lt;h2 id="mermaidチャートテスト">Mermaidチャートテスト&lt;/h2>
-&lt;h3 id="フローチャート">フローチャート&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数学チャート on 波奇的小窝</title><link>https://www.funbocchi.top/ja/categories/%E6%95%B0%E5%AD%A6%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/</link><description>Recent content in 数学チャート on 波奇的小窝</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://www.funbocchi.top/ja/categories/%E6%95%B0%E5%AD%A6%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeXとMermaidテスト</title><link>https://www.funbocchi.top/ja/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://www.funbocchi.top/ja/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katexとmermaidテスト"&gt;KaTeXとMermaidテスト&lt;/h1&gt;
+&lt;p&gt;この記事はKaTeX数式レンダリングとMermaidチャート機能をテストするために使用されます。&lt;/p&gt;
+&lt;h2 id="mermaidチャートテスト"&gt;Mermaidチャートテスト&lt;/h2&gt;
+&lt;h3 id="フローチャート"&gt;フローチャート&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  graph TD
  A[開始] --&amp;gt; B{ユーザーですか？}
  B --&amp;gt;|はい| C[ユーザーインターフェースを表示]
@@ -17,13 +17,13 @@
  G --&amp;gt;|いいえ| H[エラーメッセージを表示]
  H --&amp;gt; D
  E --&amp;gt; I[終了]
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h3 id="シーケンス図">シーケンス図&lt;/h3>
+&lt;h3 id="シーケンス図"&gt;シーケンス図&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  sequenceDiagram
  participant ユーザー
  participant ブラウザ
@@ -36,13 +36,13 @@
  データベース--&amp;gt;&amp;gt;サーバー: データを返す
  サーバー--&amp;gt;&amp;gt;ブラウザ: HTMLを返す
  ブラウザ--&amp;gt;&amp;gt;ユーザー: ページを表示
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h3 id="ガントチャート">ガントチャート&lt;/h3>
+&lt;h3 id="ガントチャート"&gt;ガントチャート&lt;/h3&gt;
 
 
 
-&lt;pre class="mermaid">
+&lt;pre class="mermaid"&gt;
  gantt
  title プロジェクト開発タイムライン
  dateFormat YYYY-MM-DD
@@ -58,8 +58,8 @@
  単体テスト : test1, 2024-02-16, 2024-02-25
  統合テスト : test2, 2024-02-21, 2024-03-01
  ユーザーテスト : test3, 2024-02-26, 2024-03-05
-&lt;/pre>
+&lt;/pre&gt;
 
-&lt;h2 id="katexテスト">KaTeXテスト&lt;/h2>
-&lt;h3 id="インライン数式">インライン数式&lt;/h3>
-&lt;p>これはインライン数式です：$E = mc^2$、アインシュタインの質量エネルギー等価式。&lt;/p></description></item></channel></rss>
+&lt;h2 id="katexテスト"&gt;KaTeXテスト&lt;/h2&gt;
+&lt;h3 id="インライン数式"&gt;インライン数式&lt;/h3&gt;
+&lt;p&gt;これはインライン数式です：$E = mc^2$、アインシュタインの質量エネルギー等価式。&lt;/p&gt;</description></item></channel></rss>
